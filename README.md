@@ -1,4 +1,4 @@
-## Hi, 👋 I'm Nicole Pastor!
+# Hi, 👋 I'm Nicole Pastor!
 
 <!--
 **nicolevpastor/nicolevpastor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭Aspiring Software Engineer <br> 🌱 Studying Computer Science at Santa Ana College
+Aspiring Software Engineer <br> Studying Computer Science at Santa Ana College <br> You can reach me at nicolepastorv@gmail.com
 
 
 # 💻 Tech Stack:
