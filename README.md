@@ -1,22 +1,37 @@
-# Hi, 👋 I'm Nicole Pastor!
+![nicolebanner] (https://github.com/user-attachments/assets/ac911156-739a-4b05-9194-2cdd3bcc3563)
 
-<!--
-**nicolevpastor/nicolevpastor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩🏻‍💻 Nicole Pastor
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 💫 About Me:
-Aspiring Software Engineer <br> Studying Computer Science at Santa Ana College <br> You can reach me at nicolepastorv@gmail.com
+Hello World! I'm Nicole, an aspiring software engineer passionate about building full-stack and mobile applications. ☁️
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+📊 **Working with:** Python, JavaScript, React, React Native, SQL, Java
+👷🏻‍♀️ **Building:** User-focused full-stack and mobile applications
+🎧 **Focusing on:** Building scalable, user-focused software and AI applications
+
+
+
+
+
+### 🛠️ Languages and Tools
+
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React Native" title="React Native" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="VSCode" title="VS Code" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+
+<br />
+
+### ✨ My Projects
+
+🌟 ***Featured***
+
+- [Spotify Requests] (https://github.com/nicolevpastor/Spotify-Requests): A Spotify-style music discovery app that displays top tracks and identifies songs in real time using the Spotify Web API, OAuth, and AudD API.
+- [Homebase] (https://github.com/ckim146/2025-Snap-HousingSecurity): Community-focused mobile feature for discovering local places, events, and resources while connecting with community organizations.
+
