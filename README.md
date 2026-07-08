@@ -41,6 +41,6 @@ Hello World! I'm Nicole, an aspiring software engineer passionate about building
 🌟 ***Featured***
 
 
-- [Spotify Requests] (https://github.com/nicolevpastor/Spotify-Requests): A Spotify-style music discovery app that displays top tracks and identifies songs in real time using the Spotify Web API, OAuth, and AudD API.
-- [Homebase] (https://github.com/ckim146/2025-Snap-HousingSecurity): Community-focused mobile feature for discovering local places, events, and resources while connecting with community organizations.
+- **[Spotify Requests](https://github.com/nicolevpastor/Spotify-Requests)** – A Spotify-style music discovery app that displays top tracks and identifies songs in real time using the Spotify Web API, OAuth, and AudD API.
+- **[Homebase](https://github.com/ckim146/2025-Snap-HousingSecurity)** – Community-focused mobile platform for discovering local places, events, and resources while connecting with community organizations.
 
