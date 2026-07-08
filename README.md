@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac911156-739a-4b05-9194-2cdd3bcc3563" alt="Nicole Banner" height="250">
+  <img src="https://github.com/user-attachments/assets/8a1595b7-e8f9-4b19-9bb4-5785f94061ea" alt="Nicole Banner" width="100%">
 </p>
 
 # 👩🏻‍💻 Nicole Pastor
