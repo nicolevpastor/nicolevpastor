@@ -7,9 +7,11 @@
 Hello World! I'm Nicole, an aspiring software engineer passionate about building full-stack and mobile applications. ☁️
 
 
-- 📊 **Working with:** Python, JavaScript, React, React Native, SQL, Java
-- 👷🏻‍♀️ **Building:** User-focused full-stack and mobile applications
-- 🎧 **Focusing on:** Building scalable, user-focused software and AI applications
+📊 **Working with:** Python, JavaScript, React, React Native, SQL, Java
+
+👷🏻‍♀️ **Building:** User-focused full-stack and mobile applications
+
+🎯 **Focusing on:** Building scalable, user-focused software and AI applications
 
 
 ---
