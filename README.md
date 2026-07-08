@@ -1,16 +1,18 @@
-![nicolebanner] (https://github.com/user-attachments/assets/ac911156-739a-4b05-9194-2cdd3bcc3563)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac911156-739a-4b05-9194-2cdd3bcc3563" alt="Nicole Banner" width="100%">
+</p>
 
 # 👩🏻‍💻 Nicole Pastor
 
 Hello World! I'm Nicole, an aspiring software engineer passionate about building full-stack and mobile applications. ☁️
 
 
-📊 **Working with:** Python, JavaScript, React, React Native, SQL, Java
-👷🏻‍♀️ **Building:** User-focused full-stack and mobile applications
-🎧 **Focusing on:** Building scalable, user-focused software and AI applications
+- 📊 **Working with:** Python, JavaScript, React, React Native, SQL, Java
+- 👷🏻‍♀️ **Building:** User-focused full-stack and mobile applications
+- 🎧 **Focusing on:** Building scalable, user-focused software and AI applications
 
 
-
+---
 
 
 ### 🛠️ Languages and Tools
@@ -25,12 +27,17 @@ Hello World! I'm Nicole, an aspiring software engineer passionate about building
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="VSCode" title="VS Code" width="30px" style="padding-right:10px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-
 <br />
+
+# 
+
 
 ### ✨ My Projects
 
+
+
 🌟 ***Featured***
+
 
 - [Spotify Requests] (https://github.com/nicolevpastor/Spotify-Requests): A Spotify-style music discovery app that displays top tracks and identifies songs in real time using the Spotify Web API, OAuth, and AudD API.
 - [Homebase] (https://github.com/ckim146/2025-Snap-HousingSecurity): Community-focused mobile feature for discovering local places, events, and resources while connecting with community organizations.
